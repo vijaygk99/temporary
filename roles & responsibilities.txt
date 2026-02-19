@@ -1,0 +1,27 @@
+📄 Roles & Responsibilities
+
+Employee Name: G K, Vijay
+Employee ID: [Your Barclays Employee ID]
+Designation: Automation Engineer (BA4)
+Employment Period: 18th September 2023 – Present
+Location: Chennai
+
+During my tenure at Barclays, my key roles and responsibilities include:
+
+• Designing, developing, and maintaining automation frameworks and analytical applications to improve operational efficiency, accuracy, and transparency across risk management and asset control processes.
+
+• Building and enhancing PowerApps dashboards and Power Automate workflows to digitize manual processes, implement structured approval mechanisms, and improve traceability and governance.
+
+• Developing Python-based automation solutions using Flask, Pandas, Selenium, and RESTful APIs to streamline reporting, data validation, reconciliation, and monitoring activities.
+
+• Reengineering and optimizing time-series data adjustment workflows to ensure accurate financial calculations and structured reporting to stakeholders.
+
+• Developing web-based analytical applications to enable multidimensional data analysis, reporting, and performance tracking across business functions.
+
+• Automating data integrity validation processes, approval tracking mechanisms, and compliance reporting workflows within the Asset Control ecosystem.
+
+• Designing and implementing system integrations and API-based connectors to enable seamless communication between internal platforms and legacy systems.
+
+• Collaborating with cross-functional teams including risk, compliance, and technology stakeholders to gather requirements, perform solution design, testing, optimization, and deployment of scalable automation solutions.
+
+• Preparing technical documentation, solution design notes, and process flow diagrams to ensure maintainability, audit readiness, and long-term supportability of developed systems.
